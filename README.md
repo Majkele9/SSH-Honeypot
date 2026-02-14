@@ -26,8 +26,6 @@ Honeypot działa jako "fałszywy cel", zbierając dane o każdej próbie interak
 
 ### 3. 📥 Malware Capture
 
-Bezpieczne gromadzenie narzędzi hakerskich.
-
 - **Automatyczny Download**: Jeśli atakujący spróbuje pobrać plik (np. przez `wget` lub `curl`), system przechwyci go i zapisze w odizolowanym folderze do późniejszej analizy wirusologicznej.
 - **Bezpieczne Składowanie**: Wszystkie pobrane skrypty i pliki binarne są odseparowane od głównego systemu operacyjnego.
 
